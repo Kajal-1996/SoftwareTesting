@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"Day45ArrayListVector","l":"ArrayListExample1"}];updateSearchResults();
