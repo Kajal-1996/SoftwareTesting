@@ -10,7 +10,7 @@ public class StaticGlobalVariable1 {
 		System.out.println("**********************************");
 		mobileNumber=456;	//re-initialization or updating or overriding the value of age variable
 		System.out.println("SGV : "+mobileNumber);//456
-		System.out.println("SGV with standard: "+StaticGlobalVariable1.mobileNumber);//456
+		System.out.println("SGV with standard: "+StaticGlobalVariable1.mobileNumber);//456 3
 		System.out.println("***********************************");
 		int mobileNumber=789;//local variable
 		System.out.println("Local Variable : "+mobileNumber);//789
